@@ -1,6 +1,6 @@
 #  Sector Investment Chatbot
 
-**_An AI-powered conversational sector investment chatbot specializing for Vietnam's economist, built using **Large language models (LLMs)**, **vector search**
+**_An AI-powered conversational sector investment chatbot specializing for Vietnam's economist, built using **Large language models (LLMs)**, **vector search**._**
 ---
 ## 🧠 Key Technologies
 
@@ -32,7 +32,9 @@ This chatbot system integrates several AI components to enable intelligent, and 
   - Retrieved knowledge from vector search
   - User Input
 - The LLM is called via API in the backend (FastAPI) to return contextual and domain-relevant answers.
-![Response Generation Workflow (Source: From AI Engineer Book (Chip Huyen))](workflow_chart.PNG)
+![Response Generation Workflow](workflow_chart.PNG)
+
+*Figure 1: Response Generation Workflow (Source: From AI Engineer Book (Chip Huyen).*
 
 ## 🗂 Project Structure
 
