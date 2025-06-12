@@ -89,7 +89,7 @@ Modify the `.env` file with the required API keys and settings.
 cd chatbot_api/src
 uvicorn main:app --reload
 ```
-The backend will be available at: [http://localhost:8000](http://127.0.0.1:8000)
+The backend will be available at: [http://localhost:8000](http://127.0.0.1:8000). And, We can use the (http://localhost:8000/docs) to play with the APIs. 
 
 #### 4. Run the Frontend
 
@@ -101,3 +101,5 @@ streamlit run main.py
 ```
 
 The frontend UI will be available at: [http://localhost:8501](http://localhost:8501)
+
+After running both backend and frontend successfully, you can start chatting.
